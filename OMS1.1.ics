@@ -171,3 +171,5 @@ DESCRIPTION:Study, Self-directed, research, ECCP, OSCE, and other exams
 END:VEVENT
 
 X- END WEEK 1
+
+END:VCALENDAR

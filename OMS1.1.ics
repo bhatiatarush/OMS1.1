@@ -23,8 +23,7 @@ END:STANDARD
 END:VTIMEZONE
 
 
-X- START WEEK 1
-
+X- 1
 BEGIN:VEVENT
 UID:20250811T090000-OMEDD1570@midwestern.edu
 DTSTAMP:20240728T220000Z
@@ -169,7 +168,5 @@ SUMMARY:Self-Directed Study and Clinical Learning
 LOCATION:Off Campus
 DESCRIPTION:Study, Self-directed, research, ECCP, OSCE, and other exams
 END:VEVENT
-
-X- END WEEK 1
 
 END:VCALENDAR

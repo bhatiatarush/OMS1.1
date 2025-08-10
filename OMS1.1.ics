@@ -147,9 +147,9 @@ UID:20250814T131000-STUDY@midwestern.edu
 DTSTAMP:20240728T220000Z
 DTSTART;TZID=America/Chicago:20250814T131000
 DTEND;TZID=America/Chicago:20250814T170000
-SUMMARY:Self-Directed and Off Campus Clinical Learning, Research, ECCP, OSCE, and Other Exams
+SUMMARY:Study, Self-Directed and Off Campus Clinical Learning, Research, ECCP, OSCE, and Other Exams
 LOCATION:Off campus
-DESCRIPTION:Self-Directed and Off Campus Clinical Learning, Research, ECCP, OSCE, and Other Exams
+DESCRIPTION:Study, Self-Directed and Off Campus Clinical Learning, Research, ECCP, OSCE, and Other Exams
 END:VEVENT
 
 BEGIN:VEVENT
@@ -157,9 +157,9 @@ UID:20250815T090000-STUDY@midwestern.edu
 DTSTAMP:20240728T220000Z
 DTSTART;TZID=America/Chicago:20250815T080000
 DTEND;TZID=America/Chicago:20250815T170000
-SUMMARY:Self-Directed and Off Campus Clinical Learning, Research, ECCP, OSCE, and Other Exams
+SUMMARY:Study, Self-Directed and Off Campus Clinical Learning, Research, ECCP, OSCE, and Other Exams
 LOCATION:Off campus
-DESCRIPTION:Self-Directed and Off Campus Clinical Learning, Research, ECCP, OSCE, and Other Exams
+DESCRIPTION:Study, Self-Directed and Off Campus Clinical Learning, Research, ECCP, OSCE, and Other Exams
 END:VEVENT
 
 
@@ -337,9 +337,9 @@ UID:20250822T131000-STUDY@midwestern.edu
 DTSTAMP:20240728T220000Z
 DTSTART;TZID=America/Chicago:20250822T131000
 DTEND;TZID=America/Chicago:20250822T170000
-SUMMARY:Self-Directed and Off Campus Clinical Learning, Research, ECCP, OSCE, and Other Exams
+SUMMARY:Study, Self-Directed and Off Campus Clinical Learning, Research, ECCP, OSCE, and Other Exams
 LOCATION:Off campus
-DESCRIPTION:Self-Directed and Off Campus Clinical Learning, Research, ECCP, OSCE, and Other Exams
+DESCRIPTION:Study, Self-Directed and Off Campus Clinical Learning, Research, ECCP, OSCE, and Other Exams
 END:VEVENT
 
 
@@ -535,9 +535,9 @@ UID:20250829T081000-STUDY@midwestern.edu
 DTSTAMP:20240728T220000Z
 DTSTART;TZID=America/Chicago:20250829T081000
 DTEND;TZID=America/Chicago:20250829T170000
-SUMMARY:Self-Directed and Off Campus Clinical Learning, Research, ECCP, OSCE, and Other Exams
+SUMMARY:Study, Self-Directed and Off Campus Clinical Learning, Research, ECCP, OSCE, and Other Exams
 LOCATION:Off campus
-DESCRIPTION:Self-Directed and Off Campus Clinical Learning, Research, ECCP, OSCE, and Other Exams
+DESCRIPTION:Study, Self-Directed and Off Campus Clinical Learning, Research, ECCP, OSCE, and Other Exams
 END:VEVENT
 
 
@@ -845,9 +845,9 @@ UID:20250912T070000-STUDY@midwestern.edu
 DTSTAMP:20240728T220000Z
 DTSTART;TZID=America/Chicago:20250912T070000
 DTEND;TZID=America/Chicago:20250912T170000
-SUMMARY:Self-Directed and Off Campus Clinical Learning, Research, ECCP, OSCE, and Other Exams
+SUMMARY:Study, Self-Directed and Off Campus Clinical Learning, Research, ECCP, OSCE, and Other Exams
 LOCATION:Off campus
-DESCRIPTION:Self-Directed and Off Campus Clinical Learning, Research, ECCP, OSCE, and Other Exams
+DESCRIPTION:Study, Self-Directed and Off Campus Clinical Learning, Research, ECCP, OSCE, and Other Exams
 END:VEVENT
 
 
@@ -1030,9 +1030,9 @@ UID:20250919T120000-STUDY@midwestern.edu
 DTSTAMP:20240728T220000Z
 DTSTART;TZID=America/Chicago:20250919T120000
 DTEND;TZID=America/Chicago:20250919T170000
-SUMMARY:Self-Directed and Off Campus Clinical Learning, Research, ECCP, OSCE, and Other Exams
+SUMMARY:Study, Self-Directed and Off Campus Clinical Learning, Research, ECCP, OSCE, and Other Exams
 LOCATION:Off campus
-DESCRIPTION:Self-Directed and Off Campus Clinical Learning, Research, ECCP, OSCE, and Other Exams
+DESCRIPTION:Study, Self-Directed and Off Campus Clinical Learning, Research, ECCP, OSCE, and Other Exams
 END:VEVENT
 
 
@@ -1162,8 +1162,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Chicago:20250926T131000
 DTEND;TZID=America/Chicago:20250926T170000
-SUMMARY:Study, Self-directed and Off Campus Clinical Learning
-DESCRIPTION:Research, ECCP, OSCE, and Other Exams
+SUMMARY:Study, Study, Self-Directed and Off Campus Clinical Learning, Research, ECCP, OSCE, and Other Exams
+DESCRIPTION:Study, Study, Self-Directed and Off Campus Clinical Learning, Research, ECCP, OSCE, and Other Exams
 END:VEVENT
 
 
@@ -1260,8 +1260,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Chicago:20251001T130000
 DTEND;TZID=America/Chicago:20251001T170000
-SUMMARY:Study, Self-directed…
-DESCRIPTION:Self-directed study, off campus learning, research, ECCP, OSCE, or other exams
+SUMMARY:Study, Self-Directed and Off Campus Clinical Learning, Research, ECCP, OSCE, and Other Exams
+DESCRIPTION:Study, Self-Directed and Off Campus Clinical Learning, Research, ECCP, OSCE, and Other Exams
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1761,8 +1761,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Chicago:20251024T080000
 DTEND;TZID=America/Chicago:20251024T170000
-SUMMARY:Self-Directed and Off Campus Clinical Learning, Research, ECCP, OSCE, and Other Exams
-DESCRIPTION:Self-Directed and Off Campus Clinical Learning, Research, ECCP, OSCE, and Other Exams
+SUMMARY:Study, Self-Directed and Off Campus Clinical Learning, Research, ECCP, OSCE, and Other Exams
+DESCRIPTION:Study, Self-Directed and Off Campus Clinical Learning, Research, ECCP, OSCE, and Other Exams
 END:VEVENT
 
 
@@ -1990,8 +1990,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Chicago:20251105T131000
 DTEND;TZID=America/Chicago:20251105T170000
-SUMMARY:Self-Directed and Off Campus Clinical Learning, Research, ECCP, OSCE, and Other Exams
-DESCRIPTION:Self-Directed and Off Campus Clinical Learning, Research, ECCP, OSCE, and Other Exams
+SUMMARY:Study, Self-Directed and Off Campus Clinical Learning, Research, ECCP, OSCE, and Other Exams
+DESCRIPTION:Study, Self-Directed and Off Campus Clinical Learning, Research, ECCP, OSCE, and Other Exams
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2037,8 +2037,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Chicago:20251107T080000
 DTEND;TZID=America/Chicago:20251107T120000
-SUMMARY:Self-Directed and Off Campus Clinical Learning, Research, ECCP, OSCE, and Other Exams
-DESCRIPTION:Self-Directed and Off Campus Clinical Learning, Research, ECCP, OSCE, and Other Exams
+SUMMARY:Study, Self-Directed and Off Campus Clinical Learning, Research, ECCP, OSCE, and Other Exams
+DESCRIPTION:Study, Self-Directed and Off Campus Clinical Learning, Research, ECCP, OSCE, and Other Exams
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2063,7 +2063,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Chicago:20251110T131000
 DTEND;TZID=America/Chicago:20251110T170000
-SUMMARY:Self-Directed and Off Campus Clinical Learning, Research, ECCP, OSCE, and Other Exams
+SUMMARY:Study, Self-Directed and Off Campus Clinical Learning, Research, ECCP, OSCE, and Other Exams
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2093,7 +2093,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Chicago:20251111T131000
 DTEND;TZID=America/Chicago:20251111T170000
-SUMMARY:Self-Directed and Off Campus Clinical Learning, Research, ECCP, OSCE, and Other Exams
+SUMMARY:Study, Self-Directed and Off Campus Clinical Learning, Research, ECCP, OSCE, and Other Exams
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2114,7 +2114,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Chicago:20251112T133000
 DTEND;TZID=America/Chicago:20251112T170000
-SUMMARY:Self-Directed and Off Campus Clinical Learning, Research, ECCP, OSCE, and Other Exams
+SUMMARY:Study, Self-Directed and Off Campus Clinical Learning, Research, ECCP, OSCE, and Other Exams
 END:VEVENT
 
 BEGIN:VEVENT

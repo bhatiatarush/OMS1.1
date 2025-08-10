@@ -1193,5 +1193,286 @@ END:VEVENT
 
 
 
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20250929T091000
+DTEND;TZID=America/Chicago:20250929T100000
+SUMMARY:CLIND 1552 – Patient Symptom Presentations I
+LOCATION:CARD B
+DESCRIPTION:Patient Symptom Presentations I
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20250929T110000
+DTEND;TZID=America/Chicago:20250929T120000
+SUMMARY:ANATD 1554 – Medical Anatomy I Exam 2
+LOCATION:Testing Center
+DESCRIPTION:Medical Anatomy I Exam 2
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20250929T130000
+DTEND;TZID=America/Chicago:20250929T170000
+SUMMARY:ANATD 1554 – Medical Anatomy I Practical Exam 2
+LOCATION:Gross Lab
+DESCRIPTION:Medical Anatomy I Practical Exam 2
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20250930T080000
+DTEND;TZID=America/Chicago:20250930T081500
+SUMMARY:CLIND 1552 – Patient Symptom Presentations I Quiz
+LOCATION:Testing Center
+DESCRIPTION:Patient Symptom Presentations I Quiz
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20250930T091000
+DTEND;TZID=America/Chicago:20250930T100000
+SUMMARY:BIOCD 1501 – Biochemistry I
+LOCATION:CARD B
+DESCRIPTION:Biochemistry I
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20250930T101000
+DTEND;TZID=America/Chicago:20250930T110000
+SUMMARY:BIOCD 1501 – Biochemistry I
+LOCATION:CARD B
+DESCRIPTION:Biochemistry I
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20250930T111000
+DTEND;TZID=America/Chicago:20250930T120000
+SUMMARY:BIOCD 1501 – Biochemistry I
+LOCATION:CARD B
+DESCRIPTION:Biochemistry I
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20250930T131000
+DTEND;TZID=America/Chicago:20250930T140000
+SUMMARY:ANATD 1554 – Medical Anatomy I
+LOCATION:CARD B
+DESCRIPTION:Medical Anatomy I
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20250930T141000
+DTEND;TZID=America/Chicago:20250930T150000
+SUMMARY:ANATD 1554 – Medical Anatomy I
+LOCATION:CARD B
+DESCRIPTION:Medical Anatomy I
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20250930T151000
+DTEND;TZID=America/Chicago:20250930T160000
+SUMMARY:ANATD 1554 – Medical Anatomy I Post Exam Review
+LOCATION:CARD B
+DESCRIPTION:Medical Anatomy I Post Exam Review
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20251001T081000
+DTEND;TZID=America/Chicago:20251001T120000
+SUMMARY:OMEDD 1570 – Principles of OMM I Workshop/OMM Lab
+LOCATION:As Assigned
+DESCRIPTION:Principles of Osteopathic Manipulative Medicine I Workshop/OMM Lab
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20251001T130000
+DTEND;TZID=America/Chicago:20251001T170000
+SUMMARY:Study, Self-directed…
+DESCRIPTION:Self-directed study, off campus learning, research, ECCP, OSCE, or other exams
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20251002T091000
+DTEND;TZID=America/Chicago:20251002T100000
+SUMMARY:CLIND 1552 – Patient Symptom Presentations I
+LOCATION:CH-E
+DESCRIPTION:Patient Symptom Presentations I
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20251002T101000
+DTEND;TZID=America/Chicago:20251002T120000
+SUMMARY:CLIND 1562 – Physical Exam Skills I PES
+LOCATION:OMM Lab / CH-E
+DESCRIPTION:Physical Exam Skills I PES (All Groups; session times provided by course)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20251002T131000
+DTEND;TZID=America/Chicago:20251002T140000
+SUMMARY:BIOCD 1501 – Biochemistry I
+LOCATION:CARD B
+DESCRIPTION:Biochemistry I
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20251002T141000
+DTEND;TZID=America/Chicago:20251002T150000
+SUMMARY:BIOCD 1501 – Biochemistry I
+LOCATION:CARD B
+DESCRIPTION:Biochemistry I
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20251003T081000
+DTEND;TZID=America/Chicago:20251003T103000
+SUMMARY:CLIND 1562 – Physical Exam Skills I History-taking Clinic
+LOCATION:CARD 403, 405, 446, 448
+DESCRIPTION:History-taking Clinic (Sessions as assigned)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20251004T100000
+DTEND;TZID=America/Chicago:20251004T120000
+SUMMARY:White Coat Ceremony
+LOCATION:Cardinal Hall
+DESCRIPTION:White Coat Ceremony (Details to come)
+END:VEVENT
+
+
+
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20251006T091000
+DTEND;TZID=America/Chicago:20251006T100000
+SUMMARY:CLIND 1552 – Patient Symptom Presentations I
+LOCATION:CARD B
+DESCRIPTION:Patient Symptom Presentations I\nInstructor: TBA\nCredit Hours: 1.0
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20251006T101000
+DTEND;TZID=America/Chicago:20251006T110000
+SUMMARY:ANATD 1554 – Medical Anatomy I
+LOCATION:CARD B
+DESCRIPTION:Medical Anatomy I\nInstructor: TBA\nCredit Hours: 8.0
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20251006T111000
+DTEND;TZID=America/Chicago:20251006T130000
+SUMMARY:CORED 1599 – Interprofessional Education I
+LOCATION:As Assigned
+DESCRIPTION:Interprofessional Education I\nLunch is 11-12 or 12-1 depending on group assignment\nInstructor: TBA\nCredit Hours: 0.5
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20251006T131000
+DTEND;TZID=America/Chicago:20251006T140000
+SUMMARY:ANATD 1554 – Medical Anatomy I
+LOCATION:CARD B
+DESCRIPTION:Medical Anatomy I\nInstructor: TBA\nCredit Hours: 8.0
+END:VEVENT
+
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20251007T073000
+DTEND;TZID=America/Chicago:20251007T085000
+SUMMARY:BIOCD 1501 – Biochemistry I Exam 2
+LOCATION:Testing Center
+DESCRIPTION:Biochemistry I Exam 2\nInstructor: Dr. Susan Viselli\nCredit Hours: 5.0
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20251007T091000
+DTEND;TZID=America/Chicago:20251007T100000
+SUMMARY:BIOCD 1501 – Biochemistry I Team Exam 2
+LOCATION:AH 152-160
+DESCRIPTION:Biochemistry I Team Exam 2\nInstructor: Dr. Susan Viselli\nCredit Hours: 5.0
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20251007T101000
+DTEND;TZID=America/Chicago:20251007T110000
+SUMMARY:BIOCD 1501 – Biochemistry I
+LOCATION:CARD B
+DESCRIPTION:Biochemistry I\nInstructor: Dr. Susan Viselli\nCredit Hours: 5.0
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20251007T111000
+DTEND;TZID=America/Chicago:20251007T120000
+SUMMARY:BIOCD 1501 – Biochemistry I
+LOCATION:CARD B
+DESCRIPTION:Biochemistry I\nInstructor: Dr. Susan Viselli\nCredit Hours: 5.0
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20251007T131000
+DTEND;TZID=America/Chicago:20251007T140000
+SUMMARY:ANATD 1554 – Medical Anatomy I
+LOCATION:CARD B
+DESCRIPTION:Medical Anatomy I\nInstructor: TBA\nCredit Hours: 8.0
+END:VEVENT
+
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20251008T081000
+DTEND;TZID=America/Chicago:20251008T120000
+SUMMARY:OMEDD 1570 – Principles of OMM I OMM Workshop/OMM Lab
+LOCATION:As Assigned
+DESCRIPTION:Principles of Osteopathic Manipulative Medicine I – OMM Workshop/OMM Lab\nInstructor: TBA\nCredit Hours: 2.0
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20251008T131000
+DTEND;TZID=America/Chicago:20251008T140000
+SUMMARY:ANATD 1554 – Medical Anatomy I
+LOCATION:CARD B
+DESCRIPTION:Medical Anatomy I\nInstructor: TBA\nCredit Hours: 8.0
+END:VEVENT
+
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20251009T091000
+DTEND;TZID=America/Chicago:20251009T100000
+SUMMARY:CLIND 1552 – Patient Symptom Presentations I
+LOCATION:CARD B
+DESCRIPTION:Patient Symptom Presentations I\nInstructor: TBA\nCredit Hours: 1.0
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20251009T101000
+DTEND;TZID=America/Chicago:20251009T120000
+SUMMARY:CLIND 1562 – Physical Exam Skills I PES
+LOCATION:OMM Lab / CARD B
+DESCRIPTION:Physical Exam Skills I – PES\nAll Groups, session times provided by course\nInstructor: TBA\nCredit Hours: 1.5
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20251009T131000
+DTEND;TZID=America/Chicago:20251009T150000
+SUMMARY:BIOCD 1501 – Biochemistry I Workshop
+LOCATION:AH 152-160
+DESCRIPTION:Biochemistry I Workshop\nInstructor: Dr. Susan Viselli\nCredit Hours: 5.0
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20251009T151500
+DTEND;TZID=America/Chicago:20251009T163000
+SUMMARY:CLIND 1552 – Patient Symptom Presentations I Exam 2
+LOCATION:Testing Center
+DESCRIPTION:Patient Symptom Presentations I Exam 2\nInstructor: TBA\nCredit Hours: 1.0
+END:VEVENT
+
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20251010T080000
+DTEND;TZID=America/Chicago:20251010T133000
+SUMMARY:CLIND 1562 – Physical Exam Skills I History-taking Clinic
+LOCATION:CARD 303, 305, 310, 311
+DESCRIPTION:Physical Exam Skills I – History-taking Clinic\nSessions as assigned\nInstructor: TBA\nCredit Hours: 1.5
+END:VEVENT
+
+
+
+
 
 END:VCALENDAR

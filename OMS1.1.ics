@@ -29,7 +29,7 @@ DTSTART;TZID=America/Chicago:20250811T091000
 DTEND;TZID=America/Chicago:20250811T100000
 SUMMARY:CLIND 1552 – Patient Symptom Presentations I
 LOCATION:CARD B
-DESCRIPTION:Patient Symptom Presentations I. Syllabus: https://drive.google.com/file/d/11rJc7IXw3FmF0U_wijBXsXFawud__c1s/view?usp=sharing     Fall Schedule: https://drive.google.com/file/d/16UVrUO9OGa2Z8S1frmlSppVnEmMDxJHE/view?usp=sharing
+DESCRIPTION:Patient Symptom Presentations I
 END:VEVENT
 BEGIN:VEVENT
 UID:20250811T101000-CLIND1502@midwestern.edu
@@ -131,7 +131,7 @@ DTSTART;TZID=America/Chicago:20250814T091000
 DTEND;TZID=America/Chicago:20250814T100000
 SUMMARY:CLIND 1552 – Patient Symptom Presentations I
 LOCATION:CARD B
-DESCRIPTION:Patient Symptom Presentations I. Syllabus: https://drive.google.com/file/d/11rJc7IXw3FmF0U_wijBXsXFawud__c1s/view?usp=sharing     Fall Schedule: https://drive.google.com/file/d/16UVrUO9OGa2Z8S1frmlSppVnEmMDxJHE/view?usp=sharing
+DESCRIPTION:Patient Symptom Presentations I
 END:VEVENT
 BEGIN:VEVENT
 UID:20250814T101000-CLIND1562@midwestern.edu
@@ -173,7 +173,7 @@ DTSTART;TZID=America/Chicago:20250818T091000
 DTEND;TZID=America/Chicago:20250818T100000
 SUMMARY:CLIND 1552 – Patient Symptom Presentations I
 LOCATION:CARD B
-DESCRIPTION:Patient Symptom Presentations I. Syllabus: https://drive.google.com/file/d/11rJc7IXw3FmF0U_wijBXsXFawud__c1s/view?usp=sharing     Fall Schedule: https://drive.google.com/file/d/16UVrUO9OGa2Z8S1frmlSppVnEmMDxJHE/view?usp=sharing
+DESCRIPTION:Patient Symptom Presentations I
 END:VEVENT
 BEGIN:VEVENT
 UID:20250818T101000-CLIND1502@midwestern.edu
@@ -191,7 +191,7 @@ DTSTART;TZID=America/Chicago:20250818T111000
 DTEND;TZID=America/Chicago:20250818T120000
 SUMMARY:ANATD 1554 – Medical Anatomy I
 LOCATION:CARD B
-DESCRIPTION:Medical Anatomy I. Syllabus: https://drive.google.com/file/d/1nVmVEbRNSHa66NstkQDgo7LRyGYW4JlB/view?usp=share_link
+DESCRIPTION:Medical Anatomy I
 END:VEVENT
 BEGIN:VEVENT
 UID:20250818T131000-ANATD1554@midwestern.edu
@@ -200,7 +200,7 @@ DTSTART;TZID=America/Chicago:20250818T131000
 DTEND;TZID=America/Chicago:20250818T140000
 SUMMARY:ANATD 1554 – Medical Anatomy I
 LOCATION:CARD B
-DESCRIPTION:Medical Anatomy I. Syllabus: https://drive.google.com/file/d/1nVmVEbRNSHa66NstkQDgo7LRyGYW4JlB/view?usp=share_link
+DESCRIPTION:Medical Anatomy I
 END:VEVENT
 BEGIN:VEVENT
 UID:20250818T141000-ANATD1554@midwestern.edu
@@ -209,7 +209,7 @@ DTSTART;TZID=America/Chicago:20250818T141000
 DTEND;TZID=America/Chicago:20250818T150000
 SUMMARY:ANATD 1554 – Medical Anatomy I
 LOCATION:CARD B
-DESCRIPTION:Medical Anatomy I. Syllabus: https://drive.google.com/file/d/1nVmVEbRNSHa66NstkQDgo7LRyGYW4JlB/view?usp=share_link
+DESCRIPTION:Medical Anatomy I
 END:VEVENT
 BEGIN:VEVENT
 UID:20250818T151000-CLIND1502@midwestern.edu
@@ -228,7 +228,7 @@ DTSTART;TZID=America/Chicago:20250819T091000
 DTEND;TZID=America/Chicago:20250819T103000
 SUMMARY:CLIND 1552 – Patient Symptom Presentations I
 LOCATION:CARD B
-DESCRIPTION:Patient Symptom Presentations I. Syllabus: https://drive.google.com/file/d/11rJc7IXw3FmF0U_wijBXsXFawud__c1s/view?usp=sharing     Fall Schedule: https://drive.google.com/file/d/16UVrUO9OGa2Z8S1frmlSppVnEmMDxJHE/view?usp=sharing
+DESCRIPTION:Patient Symptom Presentations I
 END:VEVENT
 BEGIN:VEVENT
 UID:20250819T104000-CLIND1552@midwestern.edu
@@ -237,7 +237,7 @@ DTSTART;TZID=America/Chicago:20250819T104000
 DTEND;TZID=America/Chicago:20250819T120000
 SUMMARY:CLIND 1552 – Patient Symptom Presentations I
 LOCATION:CARD B
-DESCRIPTION:Patient Symptom Presentations I. Syllabus: https://drive.google.com/file/d/11rJc7IXw3FmF0U_wijBXsXFawud__c1s/view?usp=sharing     Fall Schedule: https://drive.google.com/file/d/16UVrUO9OGa2Z8S1frmlSppVnEmMDxJHE/view?usp=sharing
+DESCRIPTION:Patient Symptom Presentations I
 END:VEVENT
 BEGIN:VEVENT
 UID:20250819T131000-CLIND1502@midwestern.edu
@@ -264,7 +264,7 @@ DTSTART;TZID=America/Chicago:20250819T151000
 DTEND;TZID=America/Chicago:20250819T160000
 SUMMARY:ANATD 1554 – Medical Anatomy I
 LOCATION:CARD B
-DESCRIPTION:Medical Anatomy I. Syllabus: https://drive.google.com/file/d/1nVmVEbRNSHa66NstkQDgo7LRyGYW4JlB/view?usp=share_link
+DESCRIPTION:Medical Anatomy I
 END:VEVENT
 
 BEGIN:VEVENT
@@ -283,7 +283,7 @@ DTSTART;TZID=America/Chicago:20250820T131000
 DTEND;TZID=America/Chicago:20250820T140000
 SUMMARY:ANATD 1554 – Medical Anatomy I
 LOCATION:CARD B
-DESCRIPTION:Medical Anatomy I. Syllabus: https://drive.google.com/file/d/1nVmVEbRNSHa66NstkQDgo7LRyGYW4JlB/view?usp=share_link
+DESCRIPTION:Medical Anatomy I
 END:VEVENT
 BEGIN:VEVENT
 UID:20250820T141000-CLIND1502@midwestern.edu
@@ -302,7 +302,7 @@ DTSTART;TZID=America/Chicago:20250821T091000
 DTEND;TZID=America/Chicago:20250821T100000
 SUMMARY:CLIND 1552 – Patient Symptom Presentations I
 LOCATION:CARD B
-DESCRIPTION:Patient Symptom Presentations I. Syllabus: https://drive.google.com/file/d/11rJc7IXw3FmF0U_wijBXsXFawud__c1s/view?usp=sharing     Fall Schedule: https://drive.google.com/file/d/16UVrUO9OGa2Z8S1frmlSppVnEmMDxJHE/view?usp=sharing
+DESCRIPTION:Patient Symptom Presentations I
 END:VEVENT
 BEGIN:VEVENT
 UID:20250821T101000-CLIND1562@midwestern.edu
@@ -330,7 +330,7 @@ DTSTART;TZID=America/Chicago:20250822T090000
 DTEND;TZID=America/Chicago:20250822T123000
 SUMMARY:ANATD 1554 – Medical Anatomy I
 LOCATION:CARD B
-DESCRIPTION:Medical Anatomy I. Syllabus: https://drive.google.com/file/d/1nVmVEbRNSHa66NstkQDgo7LRyGYW4JlB/view?usp=share_link
+DESCRIPTION:Medical Anatomy I
 END:VEVENT
 BEGIN:VEVENT
 UID:20250822T131000-STUDY@midwestern.edu
@@ -353,7 +353,7 @@ DTSTART;TZID=America/Chicago:20250825T091000
 DTEND;TZID=America/Chicago:20250825T100000
 SUMMARY:CLIND 1552 – Patient Symptom Presentations I
 LOCATION:CARD B
-DESCRIPTION:Patient Symptom Presentations I. Syllabus: https://drive.google.com/file/d/11rJc7IXw3FmF0U_wijBXsXFawud__c1s/view?usp=sharing     Fall Schedule: https://drive.google.com/file/d/16UVrUO9OGa2Z8S1frmlSppVnEmMDxJHE/view?usp=sharing
+DESCRIPTION:Patient Symptom Presentations I
 END:VEVENT
 BEGIN:VEVENT
 UID:20250825T101000-ANATD1554@midwestern.edu
@@ -362,7 +362,7 @@ DTSTART;TZID=America/Chicago:20250825T101000
 DTEND;TZID=America/Chicago:20250825T110000
 SUMMARY:ANATD 1554 – Medical Anatomy I
 LOCATION:CARD B
-DESCRIPTION:Medical Anatomy I. Syllabus: https://drive.google.com/file/d/1nVmVEbRNSHa66NstkQDgo7LRyGYW4JlB/view?usp=share_link
+DESCRIPTION:Medical Anatomy I
 END:VEVENT
 BEGIN:VEVENT
 UID:20250825T111000-ANATD1554@midwestern.edu
@@ -371,7 +371,7 @@ DTSTART;TZID=America/Chicago:20250825T111000
 DTEND;TZID=America/Chicago:20250825T120000
 SUMMARY:ANATD 1554 – Medical Anatomy I
 LOCATION:CARD B
-DESCRIPTION:Medical Anatomy I. Syllabus: https://drive.google.com/file/d/1nVmVEbRNSHa66NstkQDgo7LRyGYW4JlB/view?usp=share_link
+DESCRIPTION:Medical Anatomy I
 END:VEVENT
 BEGIN:VEVENT
 UID:20250825T131000-ANATD1554@midwestern.edu
@@ -380,7 +380,7 @@ DTSTART;TZID=America/Chicago:20250825T131000
 DTEND;TZID=America/Chicago:20250825T140000
 SUMMARY:ANATD 1554 – Medical Anatomy I
 LOCATION:CARD B
-DESCRIPTION:Medical Anatomy I. Syllabus: https://drive.google.com/file/d/1nVmVEbRNSHa66NstkQDgo7LRyGYW4JlB/view?usp=share_link
+DESCRIPTION:Medical Anatomy I
 END:VEVENT
 BEGIN:VEVENT
 UID:20250825T141000-ORIENTATION@midwestern.edu
@@ -408,7 +408,7 @@ DTSTART;TZID=America/Chicago:20250826T080000
 DTEND;TZID=America/Chicago:20250826T081500
 SUMMARY:CLIND 1552 Quiz
 LOCATION:Testing Center
-DESCRIPTION:Patient Symptom Presentations I. Syllabus: https://drive.google.com/file/d/11rJc7IXw3FmF0U_wijBXsXFawud__c1s/view?usp=sharing     Fall Schedule: https://drive.google.com/file/d/16UVrUO9OGa2Z8S1frmlSppVnEmMDxJHE/view?usp=sharing Quiz
+DESCRIPTION:Patient Symptom Presentations I Quiz
 END:VEVENT
 BEGIN:VEVENT
 UID:20250826T081500-OMEDD1570QUIZ@midwestern.edu
@@ -453,7 +453,7 @@ DTSTART;TZID=America/Chicago:20250826T131000
 DTEND;TZID=America/Chicago:20250826T140000
 SUMMARY:ANATD 1554 – Medical Anatomy I
 LOCATION:CARD B
-DESCRIPTION:Medical Anatomy I. Syllabus: https://drive.google.com/file/d/1nVmVEbRNSHa66NstkQDgo7LRyGYW4JlB/view?usp=share_link
+DESCRIPTION:Medical Anatomy I
 END:VEVENT
 BEGIN:VEVENT
 UID:20250826T141000-ANATD1554@midwestern.edu
@@ -462,7 +462,7 @@ DTSTART;TZID=America/Chicago:20250826T141000
 DTEND;TZID=America/Chicago:20250826T150000
 SUMMARY:ANATD 1554 – Medical Anatomy I
 LOCATION:CARD B
-DESCRIPTION:Medical Anatomy I. Syllabus: https://drive.google.com/file/d/1nVmVEbRNSHa66NstkQDgo7LRyGYW4JlB/view?usp=share_link
+DESCRIPTION:Medical Anatomy I
 END:VEVENT
 BEGIN:VEVENT
 UID:20250826T151000-PATIENTPANEL@midwestern.edu
@@ -500,7 +500,7 @@ DTSTART;TZID=America/Chicago:20250828T091000
 DTEND;TZID=America/Chicago:20250828T100000
 SUMMARY:CLIND 1552 – Patient Symptom Presentations I
 LOCATION:CH-E
-DESCRIPTION:Patient Symptom Presentations I. Syllabus: https://drive.google.com/file/d/11rJc7IXw3FmF0U_wijBXsXFawud__c1s/view?usp=sharing     Fall Schedule: https://drive.google.com/file/d/16UVrUO9OGa2Z8S1frmlSppVnEmMDxJHE/view?usp=sharing
+DESCRIPTION:Patient Symptom Presentations I
 END:VEVENT
 BEGIN:VEVENT
 UID:20250828T101000-CLIND1562@midwestern.edu
@@ -578,7 +578,7 @@ DTSTART;TZID=America/Chicago:20250902T131000
 DTEND;TZID=America/Chicago:20250902T140000
 SUMMARY:ANATD 1554 – Medical Anatomy I
 LOCATION:CARD B
-DESCRIPTION:Medical Anatomy I. Syllabus: https://drive.google.com/file/d/1nVmVEbRNSHa66NstkQDgo7LRyGYW4JlB/view?usp=share_link
+DESCRIPTION:Medical Anatomy I
 END:VEVENT
 
 BEGIN:VEVENT
@@ -607,7 +607,7 @@ DTSTART;TZID=America/Chicago:20250904T091000
 DTEND;TZID=America/Chicago:20250904T100000
 SUMMARY:CLIND 1552 – Patient Symptom Presentations I
 LOCATION:CARD B
-DESCRIPTION:Patient Symptom Presentations I. Syllabus: https://drive.google.com/file/d/11rJc7IXw3FmF0U_wijBXsXFawud__c1s/view?usp=sharing     Fall Schedule: https://drive.google.com/file/d/16UVrUO9OGa2Z8S1frmlSppVnEmMDxJHE/view?usp=sharing
+DESCRIPTION:Patient Symptom Presentations I
 END:VEVENT
 BEGIN:VEVENT
 UID:20250904T101000-CLIND1562@midwestern.edu
@@ -644,7 +644,7 @@ DTSTART;TZID=America/Chicago:20250905T110000
 DTEND;TZID=America/Chicago:20250905T120000
 SUMMARY:ANATD 1554 – Medical Anatomy I Exam 1
 LOCATION:Testing Center
-DESCRIPTION:Medical Anatomy I. Syllabus: https://drive.google.com/file/d/1nVmVEbRNSHa66NstkQDgo7LRyGYW4JlB/view?usp=share_link Exam 1
+DESCRIPTION:Medical Anatomy I Exam 1
 END:VEVENT
 BEGIN:VEVENT
 UID:20250905T123000-ANATD1554PRACTICAL@midwestern.edu
@@ -653,7 +653,7 @@ DTSTART;TZID=America/Chicago:20250905T123000
 DTEND;TZID=America/Chicago:20250905T153000
 SUMMARY:ANATD 1554 – Medical Anatomy I Practice Practical Exam
 LOCATION:Testing Center
-DESCRIPTION:Medical Anatomy I. Syllabus: https://drive.google.com/file/d/1nVmVEbRNSHa66NstkQDgo7LRyGYW4JlB/view?usp=share_link Practice Practical Exam
+DESCRIPTION:Medical Anatomy I Practice Practical Exam
 END:VEVENT
 
 
@@ -667,7 +667,7 @@ DTSTART;TZID=America/Chicago:20250908T091000
 DTEND;TZID=America/Chicago:20250908T100000
 SUMMARY:CLIND 1552 – Patient Symptom Presentations I
 LOCATION:CARD B
-DESCRIPTION:Patient Symptom Presentations I. Syllabus: https://drive.google.com/file/d/11rJc7IXw3FmF0U_wijBXsXFawud__c1s/view?usp=sharing     Fall Schedule: https://drive.google.com/file/d/16UVrUO9OGa2Z8S1frmlSppVnEmMDxJHE/view?usp=sharing
+DESCRIPTION:Patient Symptom Presentations I
 END:VEVENT
 
 BEGIN:VEVENT
@@ -677,7 +677,7 @@ DTSTART;TZID=America/Chicago:20250908T101000
 DTEND;TZID=America/Chicago:20250908T110000
 SUMMARY:ANATD 1554 – Medical Anatomy I
 LOCATION:CARD B
-DESCRIPTION:Medical Anatomy I. Syllabus: https://drive.google.com/file/d/1nVmVEbRNSHa66NstkQDgo7LRyGYW4JlB/view?usp=share_link
+DESCRIPTION:Medical Anatomy I
 END:VEVENT
 
 BEGIN:VEVENT
@@ -697,7 +697,7 @@ DTSTART;TZID=America/Chicago:20250908T131000
 DTEND;TZID=America/Chicago:20250908T140000
 SUMMARY:ANATD 1554 – Medical Anatomy I
 LOCATION:CARD B
-DESCRIPTION:Medical Anatomy I. Syllabus: https://drive.google.com/file/d/1nVmVEbRNSHa66NstkQDgo7LRyGYW4JlB/view?usp=share_link
+DESCRIPTION:Medical Anatomy I
 END:VEVENT
 
 BEGIN:VEVENT
@@ -707,7 +707,7 @@ DTSTART;TZID=America/Chicago:20250908T141000
 DTEND;TZID=America/Chicago:20250908T150000
 SUMMARY:ANATD 1554 – Medical Anatomy I
 LOCATION:CARD B
-DESCRIPTION:Medical Anatomy I. Syllabus: https://drive.google.com/file/d/1nVmVEbRNSHa66NstkQDgo7LRyGYW4JlB/view?usp=share_link
+DESCRIPTION:Medical Anatomy I
 END:VEVENT
 
 BEGIN:VEVENT
@@ -717,7 +717,7 @@ DTSTART;TZID=America/Chicago:20250908T151000
 DTEND;TZID=America/Chicago:20250908T160000
 SUMMARY:ANATD 1554 – Medical Anatomy I Post Exam Review
 LOCATION:CARD B
-DESCRIPTION:Medical Anatomy I. Syllabus: https://drive.google.com/file/d/1nVmVEbRNSHa66NstkQDgo7LRyGYW4JlB/view?usp=share_link Post Exam Review
+DESCRIPTION:Medical Anatomy I Post Exam Review
 END:VEVENT
 
 BEGIN:VEVENT
@@ -757,7 +757,7 @@ DTSTART;TZID=America/Chicago:20250909T131000
 DTEND;TZID=America/Chicago:20250909T140000
 SUMMARY:ANATD 1554 – Medical Anatomy I
 LOCATION:CARD B
-DESCRIPTION:Medical Anatomy I. Syllabus: https://drive.google.com/file/d/1nVmVEbRNSHa66NstkQDgo7LRyGYW4JlB/view?usp=share_link
+DESCRIPTION:Medical Anatomy I
 END:VEVENT
 
 BEGIN:VEVENT
@@ -767,7 +767,7 @@ DTSTART;TZID=America/Chicago:20250909T141000
 DTEND;TZID=America/Chicago:20250909T150000
 SUMMARY:ANATD 1554 – Medical Anatomy I
 LOCATION:CARD B
-DESCRIPTION:Medical Anatomy I. Syllabus: https://drive.google.com/file/d/1nVmVEbRNSHa66NstkQDgo7LRyGYW4JlB/view?usp=share_link
+DESCRIPTION:Medical Anatomy I
 END:VEVENT
 
 BEGIN:VEVENT
@@ -807,7 +807,7 @@ DTSTART;TZID=America/Chicago:20250911T091000
 DTEND;TZID=America/Chicago:20250911T100000
 SUMMARY:CLIND 1552 – Patient Symptom Presentations I
 LOCATION:CARD B
-DESCRIPTION:Patient Symptom Presentations I. Syllabus: https://drive.google.com/file/d/11rJc7IXw3FmF0U_wijBXsXFawud__c1s/view?usp=sharing     Fall Schedule: https://drive.google.com/file/d/16UVrUO9OGa2Z8S1frmlSppVnEmMDxJHE/view?usp=sharing
+DESCRIPTION:Patient Symptom Presentations I
 END:VEVENT
 
 BEGIN:VEVENT
@@ -837,7 +837,7 @@ DTSTART;TZID=America/Chicago:20250911T151500
 DTEND;TZID=America/Chicago:20250911T163000
 SUMMARY:CLIND 1552 – Patient Symptom Presentations I Exam 1
 LOCATION:Testing Center
-DESCRIPTION:Patient Symptom Presentations I. Syllabus: https://drive.google.com/file/d/11rJc7IXw3FmF0U_wijBXsXFawud__c1s/view?usp=sharing     Fall Schedule: https://drive.google.com/file/d/16UVrUO9OGa2Z8S1frmlSppVnEmMDxJHE/view?usp=sharing Exam 1
+DESCRIPTION:Patient Symptom Presentations I Exam 1
 END:VEVENT
 
 BEGIN:VEVENT
@@ -862,7 +862,7 @@ DTSTART;TZID=America/Chicago:20250915T091000
 DTEND;TZID=America/Chicago:20250915T100000
 SUMMARY:CLIND 1552 – Patient Symptom Presentations I
 LOCATION:CARD B
-DESCRIPTION:Patient Symptom Presentations I. Syllabus: https://drive.google.com/file/d/11rJc7IXw3FmF0U_wijBXsXFawud__c1s/view?usp=sharing     Fall Schedule: https://drive.google.com/file/d/16UVrUO9OGa2Z8S1frmlSppVnEmMDxJHE/view?usp=sharing
+DESCRIPTION:Patient Symptom Presentations I
 END:VEVENT
 
 BEGIN:VEVENT
@@ -872,7 +872,7 @@ DTSTART;TZID=America/Chicago:20250915T101000
 DTEND;TZID=America/Chicago:20250915T110000
 SUMMARY:ANATD 1554 – Medical Anatomy I
 LOCATION:CARD B
-DESCRIPTION:Medical Anatomy I. Syllabus: https://drive.google.com/file/d/1nVmVEbRNSHa66NstkQDgo7LRyGYW4JlB/view?usp=share_link
+DESCRIPTION:Medical Anatomy I
 END:VEVENT
 
 BEGIN:VEVENT
@@ -892,7 +892,7 @@ DTSTART;TZID=America/Chicago:20250915T131000
 DTEND;TZID=America/Chicago:20250915T140000
 SUMMARY:ANATD 1554 – Medical Anatomy I
 LOCATION:CARD B
-DESCRIPTION:Medical Anatomy I. Syllabus: https://drive.google.com/file/d/1nVmVEbRNSHa66NstkQDgo7LRyGYW4JlB/view?usp=share_link
+DESCRIPTION:Medical Anatomy I
 END:VEVENT
 
 BEGIN:VEVENT
@@ -942,7 +942,7 @@ DTSTART;TZID=America/Chicago:20250916T131000
 DTEND;TZID=America/Chicago:20250916T140000
 SUMMARY:ANATD 1554 – Medical Anatomy I
 LOCATION:CARD B
-DESCRIPTION:Medical Anatomy I. Syllabus: https://drive.google.com/file/d/1nVmVEbRNSHa66NstkQDgo7LRyGYW4JlB/view?usp=share_link
+DESCRIPTION:Medical Anatomy I
 END:VEVENT
 
 BEGIN:VEVENT
@@ -952,7 +952,7 @@ DTSTART;TZID=America/Chicago:20250916T141000
 DTEND;TZID=America/Chicago:20250916T150000
 SUMMARY:ANATD 1554 – Medical Anatomy I
 LOCATION:CARD B
-DESCRIPTION:Medical Anatomy I. Syllabus: https://drive.google.com/file/d/1nVmVEbRNSHa66NstkQDgo7LRyGYW4JlB/view?usp=share_link
+DESCRIPTION:Medical Anatomy I
 END:VEVENT
 
 BEGIN:VEVENT
@@ -992,7 +992,7 @@ DTSTART;TZID=America/Chicago:20250918T091000
 DTEND;TZID=America/Chicago:20250918T100000
 SUMMARY:CLIND 1552 – Patient Symptom Presentations I
 LOCATION:CARD B
-DESCRIPTION:Patient Symptom Presentations I. Syllabus: https://drive.google.com/file/d/11rJc7IXw3FmF0U_wijBXsXFawud__c1s/view?usp=sharing     Fall Schedule: https://drive.google.com/file/d/16UVrUO9OGa2Z8S1frmlSppVnEmMDxJHE/view?usp=sharing
+DESCRIPTION:Patient Symptom Presentations I
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1022,7 +1022,7 @@ DTSTART;TZID=America/Chicago:20250919T081000
 DTEND;TZID=America/Chicago:20250919T120000
 SUMMARY:ANATD 1554 – Medical Anatomy I Ultrasound Lab 1
 LOCATION:SH-301
-DESCRIPTION:Medical Anatomy I. Syllabus: https://drive.google.com/file/d/1nVmVEbRNSHa66NstkQDgo7LRyGYW4JlB/view?usp=share_link Ultrasound Lab 1 (Schedule TBA)
+DESCRIPTION:Medical Anatomy I Ultrasound Lab 1 (Schedule TBA)
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1043,14 +1043,14 @@ DTSTART;TZID=America/Chicago:20250922T091000
 DTEND;TZID=America/Chicago:20250922T100000
 SUMMARY:CLIND 1552 – Patient Symptom Presentations I
 LOCATION:CARD B
-DESCRIPTION:Patient Symptom Presentations I. Syllabus: https://drive.google.com/file/d/11rJc7IXw3FmF0U_wijBXsXFawud__c1s/view?usp=sharing     Fall Schedule: https://drive.google.com/file/d/16UVrUO9OGa2Z8S1frmlSppVnEmMDxJHE/view?usp=sharing
+DESCRIPTION:Patient Symptom Presentations I
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Chicago:20250922T101000
 DTEND;TZID=America/Chicago:20250922T110000
 SUMMARY:ANATD 1554 – Medical Anatomy I
 LOCATION:CARD B
-DESCRIPTION:Medical Anatomy I. Syllabus: https://drive.google.com/file/d/1nVmVEbRNSHa66NstkQDgo7LRyGYW4JlB/view?usp=share_link
+DESCRIPTION:Medical Anatomy I
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Chicago:20250922T111000
@@ -1093,7 +1093,7 @@ DTSTART;TZID=America/Chicago:20250923T131000
 DTEND;TZID=America/Chicago:20250923T140000
 SUMMARY:ANATD 1554 – Medical Anatomy I
 LOCATION:CARD B
-DESCRIPTION:Medical Anatomy I. Syllabus: https://drive.google.com/file/d/1nVmVEbRNSHa66NstkQDgo7LRyGYW4JlB/view?usp=share_link
+DESCRIPTION:Medical Anatomy I
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1122,7 +1122,7 @@ DTSTART;TZID=America/Chicago:20250925T091000
 DTEND;TZID=America/Chicago:20250925T100000
 SUMMARY:CLIND 1552 – Patient Symptom Presentations I
 LOCATION:CARD B
-DESCRIPTION:Patient Symptom Presentations I. Syllabus: https://drive.google.com/file/d/11rJc7IXw3FmF0U_wijBXsXFawud__c1s/view?usp=sharing     Fall Schedule: https://drive.google.com/file/d/16UVrUO9OGa2Z8S1frmlSppVnEmMDxJHE/view?usp=sharing
+DESCRIPTION:Patient Symptom Presentations I
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Chicago:20250925T101000
@@ -1174,7 +1174,7 @@ DTSTART;TZID=America/Chicago:20250929T091000
 DTEND;TZID=America/Chicago:20250929T100000
 SUMMARY:CLIND 1552 – Patient Symptom Presentations I
 LOCATION:CARD B
-DESCRIPTION:Patient Symptom Presentations I. Syllabus: https://drive.google.com/file/d/11rJc7IXw3FmF0U_wijBXsXFawud__c1s/view?usp=sharing     Fall Schedule: https://drive.google.com/file/d/16UVrUO9OGa2Z8S1frmlSppVnEmMDxJHE/view?usp=sharing
+DESCRIPTION:Patient Symptom Presentations I
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1182,7 +1182,7 @@ DTSTART;TZID=America/Chicago:20250929T110000
 DTEND;TZID=America/Chicago:20250929T120000
 SUMMARY:ANATD 1554 – Medical Anatomy I Exam 2
 LOCATION:Testing Center
-DESCRIPTION:Medical Anatomy I. Syllabus: https://drive.google.com/file/d/1nVmVEbRNSHa66NstkQDgo7LRyGYW4JlB/view?usp=share_link Exam 2
+DESCRIPTION:Medical Anatomy I Exam 2
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1190,7 +1190,7 @@ DTSTART;TZID=America/Chicago:20250929T130000
 DTEND;TZID=America/Chicago:20250929T170000
 SUMMARY:ANATD 1554 – Medical Anatomy I Practical Exam 2
 LOCATION:Gross Lab
-DESCRIPTION:Medical Anatomy I. Syllabus: https://drive.google.com/file/d/1nVmVEbRNSHa66NstkQDgo7LRyGYW4JlB/view?usp=share_link Practical Exam 2
+DESCRIPTION:Medical Anatomy I Practical Exam 2
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1198,7 +1198,7 @@ DTSTART;TZID=America/Chicago:20250930T080000
 DTEND;TZID=America/Chicago:20250930T081500
 SUMMARY:CLIND 1552 – Patient Symptom Presentations I Quiz
 LOCATION:Testing Center
-DESCRIPTION:Patient Symptom Presentations I. Syllabus: https://drive.google.com/file/d/11rJc7IXw3FmF0U_wijBXsXFawud__c1s/view?usp=sharing     Fall Schedule: https://drive.google.com/file/d/16UVrUO9OGa2Z8S1frmlSppVnEmMDxJHE/view?usp=sharing Quiz
+DESCRIPTION:Patient Symptom Presentations I Quiz
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1230,7 +1230,7 @@ DTSTART;TZID=America/Chicago:20250930T131000
 DTEND;TZID=America/Chicago:20250930T140000
 SUMMARY:ANATD 1554 – Medical Anatomy I
 LOCATION:CARD B
-DESCRIPTION:Medical Anatomy I. Syllabus: https://drive.google.com/file/d/1nVmVEbRNSHa66NstkQDgo7LRyGYW4JlB/view?usp=share_link
+DESCRIPTION:Medical Anatomy I
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1238,7 +1238,7 @@ DTSTART;TZID=America/Chicago:20250930T141000
 DTEND;TZID=America/Chicago:20250930T150000
 SUMMARY:ANATD 1554 – Medical Anatomy I
 LOCATION:CARD B
-DESCRIPTION:Medical Anatomy I. Syllabus: https://drive.google.com/file/d/1nVmVEbRNSHa66NstkQDgo7LRyGYW4JlB/view?usp=share_link
+DESCRIPTION:Medical Anatomy I
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1246,7 +1246,7 @@ DTSTART;TZID=America/Chicago:20250930T151000
 DTEND;TZID=America/Chicago:20250930T160000
 SUMMARY:ANATD 1554 – Medical Anatomy I Post Exam Review
 LOCATION:CARD B
-DESCRIPTION:Medical Anatomy I. Syllabus: https://drive.google.com/file/d/1nVmVEbRNSHa66NstkQDgo7LRyGYW4JlB/view?usp=share_link Post Exam Review
+DESCRIPTION:Medical Anatomy I Post Exam Review
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1269,7 +1269,7 @@ DTSTART;TZID=America/Chicago:20251002T091000
 DTEND;TZID=America/Chicago:20251002T100000
 SUMMARY:CLIND 1552 – Patient Symptom Presentations I
 LOCATION:CH-E
-DESCRIPTION:Patient Symptom Presentations I. Syllabus: https://drive.google.com/file/d/11rJc7IXw3FmF0U_wijBXsXFawud__c1s/view?usp=sharing     Fall Schedule: https://drive.google.com/file/d/16UVrUO9OGa2Z8S1frmlSppVnEmMDxJHE/view?usp=sharing
+DESCRIPTION:Patient Symptom Presentations I
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1320,7 +1320,7 @@ DTSTART;TZID=America/Chicago:20251006T091000
 DTEND;TZID=America/Chicago:20251006T100000
 SUMMARY:CLIND 1552 – Patient Symptom Presentations I
 LOCATION:CARD B
-DESCRIPTION:Patient Symptom Presentations I. Syllabus: https://drive.google.com/file/d/11rJc7IXw3FmF0U_wijBXsXFawud__c1s/view?usp=sharing     Fall Schedule: https://drive.google.com/file/d/16UVrUO9OGa2Z8S1frmlSppVnEmMDxJHE/view?usp=sharing\nInstructor: TBA\nCredit Hours: 1.0
+DESCRIPTION:Patient Symptom Presentations I\nInstructor: TBA\nCredit Hours: 1.0
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1328,7 +1328,7 @@ DTSTART;TZID=America/Chicago:20251006T101000
 DTEND;TZID=America/Chicago:20251006T110000
 SUMMARY:ANATD 1554 – Medical Anatomy I
 LOCATION:CARD B
-DESCRIPTION:Medical Anatomy I. Syllabus: https://drive.google.com/file/d/1nVmVEbRNSHa66NstkQDgo7LRyGYW4JlB/view?usp=share_link\nInstructor: TBA\nCredit Hours: 8.0
+DESCRIPTION:Medical Anatomy I\nInstructor: TBA\nCredit Hours: 8.0
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1344,7 +1344,7 @@ DTSTART;TZID=America/Chicago:20251006T131000
 DTEND;TZID=America/Chicago:20251006T140000
 SUMMARY:ANATD 1554 – Medical Anatomy I
 LOCATION:CARD B
-DESCRIPTION:Medical Anatomy I. Syllabus: https://drive.google.com/file/d/1nVmVEbRNSHa66NstkQDgo7LRyGYW4JlB/view?usp=share_link\nInstructor: TBA\nCredit Hours: 8.0
+DESCRIPTION:Medical Anatomy I\nInstructor: TBA\nCredit Hours: 8.0
 END:VEVENT
 
 
@@ -1385,7 +1385,7 @@ DTSTART;TZID=America/Chicago:20251007T131000
 DTEND;TZID=America/Chicago:20251007T140000
 SUMMARY:ANATD 1554 – Medical Anatomy I
 LOCATION:CARD B
-DESCRIPTION:Medical Anatomy I. Syllabus: https://drive.google.com/file/d/1nVmVEbRNSHa66NstkQDgo7LRyGYW4JlB/view?usp=share_link\nInstructor: TBA\nCredit Hours: 8.0
+DESCRIPTION:Medical Anatomy I\nInstructor: TBA\nCredit Hours: 8.0
 END:VEVENT
 
 
@@ -1402,7 +1402,7 @@ DTSTART;TZID=America/Chicago:20251008T131000
 DTEND;TZID=America/Chicago:20251008T140000
 SUMMARY:ANATD 1554 – Medical Anatomy I
 LOCATION:CARD B
-DESCRIPTION:Medical Anatomy I. Syllabus: https://drive.google.com/file/d/1nVmVEbRNSHa66NstkQDgo7LRyGYW4JlB/view?usp=share_link\nInstructor: TBA\nCredit Hours: 8.0
+DESCRIPTION:Medical Anatomy I\nInstructor: TBA\nCredit Hours: 8.0
 END:VEVENT
 
 
@@ -1411,7 +1411,7 @@ DTSTART;TZID=America/Chicago:20251009T091000
 DTEND;TZID=America/Chicago:20251009T100000
 SUMMARY:CLIND 1552 – Patient Symptom Presentations I
 LOCATION:CARD B
-DESCRIPTION:Patient Symptom Presentations I. Syllabus: https://drive.google.com/file/d/11rJc7IXw3FmF0U_wijBXsXFawud__c1s/view?usp=sharing     Fall Schedule: https://drive.google.com/file/d/16UVrUO9OGa2Z8S1frmlSppVnEmMDxJHE/view?usp=sharing\nInstructor: TBA\nCredit Hours: 1.0
+DESCRIPTION:Patient Symptom Presentations I\nInstructor: TBA\nCredit Hours: 1.0
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1435,7 +1435,7 @@ DTSTART;TZID=America/Chicago:20251009T151500
 DTEND;TZID=America/Chicago:20251009T163000
 SUMMARY:CLIND 1552 – Patient Symptom Presentations I Exam 2
 LOCATION:Testing Center
-DESCRIPTION:Patient Symptom Presentations I. Syllabus: https://drive.google.com/file/d/11rJc7IXw3FmF0U_wijBXsXFawud__c1s/view?usp=sharing     Fall Schedule: https://drive.google.com/file/d/16UVrUO9OGa2Z8S1frmlSppVnEmMDxJHE/view?usp=sharing Exam 2\nInstructor: TBA\nCredit Hours: 1.0
+DESCRIPTION:Patient Symptom Presentations I Exam 2\nInstructor: TBA\nCredit Hours: 1.0
 END:VEVENT
 
 
@@ -1455,7 +1455,7 @@ DTSTART;TZID=America/Chicago:20251013T091000
 DTEND;TZID=America/Chicago:20251013T100000
 SUMMARY:CLIND 1552 – Patient Symptom Presentations I
 LOCATION:CARD B
-DESCRIPTION:Patient Symptom Presentations I. Syllabus: https://drive.google.com/file/d/11rJc7IXw3FmF0U_wijBXsXFawud__c1s/view?usp=sharing     Fall Schedule: https://drive.google.com/file/d/16UVrUO9OGa2Z8S1frmlSppVnEmMDxJHE/view?usp=sharing
+DESCRIPTION:Patient Symptom Presentations I
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1463,7 +1463,7 @@ DTSTART;TZID=America/Chicago:20251013T101000
 DTEND;TZID=America/Chicago:20251013T110000
 SUMMARY:ANATD 1554 – Medical Anatomy I
 LOCATION:CARD B
-DESCRIPTION:Medical Anatomy I. Syllabus: https://drive.google.com/file/d/1nVmVEbRNSHa66NstkQDgo7LRyGYW4JlB/view?usp=share_link
+DESCRIPTION:Medical Anatomy I
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1510,7 +1510,7 @@ DTSTART;TZID=America/Chicago:20251014T131000
 DTEND;TZID=America/Chicago:20251014T140000
 SUMMARY:ANATD 1554 – Medical Anatomy I
 LOCATION:CARD B
-DESCRIPTION:Medical Anatomy I. Syllabus: https://drive.google.com/file/d/1nVmVEbRNSHa66NstkQDgo7LRyGYW4JlB/view?usp=share_link
+DESCRIPTION:Medical Anatomy I
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1518,7 +1518,7 @@ DTSTART;TZID=America/Chicago:20251014T141000
 DTEND;TZID=America/Chicago:20251014T150000
 SUMMARY:ANATD 1554 – Medical Anatomy I
 LOCATION:CARD B
-DESCRIPTION:Medical Anatomy I. Syllabus: https://drive.google.com/file/d/1nVmVEbRNSHa66NstkQDgo7LRyGYW4JlB/view?usp=share_link
+DESCRIPTION:Medical Anatomy I
 END:VEVENT
 
 
@@ -1558,7 +1558,7 @@ DTSTART;TZID=America/Chicago:20251016T091000
 DTEND;TZID=America/Chicago:20251016T100000
 SUMMARY:CLIND 1552 – Patient Symptom Presentations I
 LOCATION:CARD B
-DESCRIPTION:Patient Symptom Presentations I. Syllabus: https://drive.google.com/file/d/11rJc7IXw3FmF0U_wijBXsXFawud__c1s/view?usp=sharing     Fall Schedule: https://drive.google.com/file/d/16UVrUO9OGa2Z8S1frmlSppVnEmMDxJHE/view?usp=sharing
+DESCRIPTION:Patient Symptom Presentations I
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1590,7 +1590,7 @@ DTSTART;TZID=America/Chicago:20251016T151000
 DTEND;TZID=America/Chicago:20251016T160000
 SUMMARY:ANATD 1554 – Medical Anatomy I
 LOCATION:CARD B
-DESCRIPTION:Medical Anatomy I. Syllabus: https://drive.google.com/file/d/1nVmVEbRNSHa66NstkQDgo7LRyGYW4JlB/view?usp=share_link
+DESCRIPTION:Medical Anatomy I
 END:VEVENT
 
 
@@ -1617,7 +1617,7 @@ DTSTART;TZID=America/Chicago:20251020T080000
 DTEND;TZID=America/Chicago:20251020T090000
 SUMMARY:ANATD 1554 – Medical Anatomy I Exam 3
 LOCATION:Testing Center
-DESCRIPTION:Medical Anatomy I. Syllabus: https://drive.google.com/file/d/1nVmVEbRNSHa66NstkQDgo7LRyGYW4JlB/view?usp=share_link\nInstructor: Dr. Susan Viselli
+DESCRIPTION:Medical Anatomy I\nInstructor: Dr. Susan Viselli
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1625,7 +1625,7 @@ DTSTART;TZID=America/Chicago:20251020T091000
 DTEND;TZID=America/Chicago:20251020T100000
 SUMMARY:CLIND 1552 – Patient Symptom Presentations I
 LOCATION:CARD B
-DESCRIPTION:Patient Symptom Presentations I. Syllabus: https://drive.google.com/file/d/11rJc7IXw3FmF0U_wijBXsXFawud__c1s/view?usp=sharing     Fall Schedule: https://drive.google.com/file/d/16UVrUO9OGa2Z8S1frmlSppVnEmMDxJHE/view?usp=sharing
+DESCRIPTION:Patient Symptom Presentations I
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1641,7 +1641,7 @@ DTSTART;TZID=America/Chicago:20251020T131000
 DTEND;TZID=America/Chicago:20251020T140000
 SUMMARY:ANATD 1554 – Medical Anatomy I
 LOCATION:CARD B
-DESCRIPTION:Medical Anatomy I. Syllabus: https://drive.google.com/file/d/1nVmVEbRNSHa66NstkQDgo7LRyGYW4JlB/view?usp=share_link
+DESCRIPTION:Medical Anatomy I
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1649,7 +1649,7 @@ DTSTART;TZID=America/Chicago:20251020T141000
 DTEND;TZID=America/Chicago:20251020T150000
 SUMMARY:ANATD 1554 – Medical Anatomy I
 LOCATION:CARD B
-DESCRIPTION:Medical Anatomy I. Syllabus: https://drive.google.com/file/d/1nVmVEbRNSHa66NstkQDgo7LRyGYW4JlB/view?usp=share_link
+DESCRIPTION:Medical Anatomy I
 END:VEVENT
 
 
@@ -1681,7 +1681,7 @@ DTSTART;TZID=America/Chicago:20251021T131000
 DTEND;TZID=America/Chicago:20251021T140000
 SUMMARY:ANATD 1554 – Medical Anatomy I Post Exam Review
 LOCATION:CARD B
-DESCRIPTION:Medical Anatomy I. Syllabus: https://drive.google.com/file/d/1nVmVEbRNSHa66NstkQDgo7LRyGYW4JlB/view?usp=share_link Post Exam Review
+DESCRIPTION:Medical Anatomy I Post Exam Review
 END:VEVENT
 
 
@@ -1690,7 +1690,7 @@ DTSTART;TZID=America/Chicago:20251022T073000
 DTEND;TZID=America/Chicago:20251022T074500
 SUMMARY:CLIND 1552 – Patient Symptom Presentations I Quiz
 LOCATION:Testing Center
-DESCRIPTION:Patient Symptom Presentations I. Syllabus: https://drive.google.com/file/d/11rJc7IXw3FmF0U_wijBXsXFawud__c1s/view?usp=sharing     Fall Schedule: https://drive.google.com/file/d/16UVrUO9OGa2Z8S1frmlSppVnEmMDxJHE/view?usp=sharing Quiz
+DESCRIPTION:Patient Symptom Presentations I Quiz
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1713,7 +1713,7 @@ DTSTART;TZID=America/Chicago:20251022T131000
 DTEND;TZID=America/Chicago:20251022T140000
 SUMMARY:ANATD 1554 – Medical Anatomy I
 LOCATION:CARD B
-DESCRIPTION:Medical Anatomy I. Syllabus: https://drive.google.com/file/d/1nVmVEbRNSHa66NstkQDgo7LRyGYW4JlB/view?usp=share_link
+DESCRIPTION:Medical Anatomy I
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1721,7 +1721,7 @@ DTSTART;TZID=America/Chicago:20251022T141000
 DTEND;TZID=America/Chicago:20251022T150000
 SUMMARY:ANATD 1554 – Medical Anatomy I
 LOCATION:CARD B
-DESCRIPTION:Medical Anatomy I. Syllabus: https://drive.google.com/file/d/1nVmVEbRNSHa66NstkQDgo7LRyGYW4JlB/view?usp=share_link
+DESCRIPTION:Medical Anatomy I
 END:VEVENT
 
 
@@ -1730,7 +1730,7 @@ DTSTART;TZID=America/Chicago:20251023T091000
 DTEND;TZID=America/Chicago:20251023T100000
 SUMMARY:CLIND 1552 – Patient Symptom Presentations I
 LOCATION:CARD B
-DESCRIPTION:Patient Symptom Presentations I. Syllabus: https://drive.google.com/file/d/11rJc7IXw3FmF0U_wijBXsXFawud__c1s/view?usp=sharing     Fall Schedule: https://drive.google.com/file/d/16UVrUO9OGa2Z8S1frmlSppVnEmMDxJHE/view?usp=sharing
+DESCRIPTION:Patient Symptom Presentations I
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1773,7 +1773,7 @@ DTSTART;TZID=America/Chicago:20251027T091000
 DTEND;TZID=America/Chicago:20251027T100000
 SUMMARY:CLIND 1552 – Patient Symptom Presentations I
 LOCATION:CARD B
-DESCRIPTION:Patient Symptom Presentations I. Syllabus: https://drive.google.com/file/d/11rJc7IXw3FmF0U_wijBXsXFawud__c1s/view?usp=sharing     Fall Schedule: https://drive.google.com/file/d/16UVrUO9OGa2Z8S1frmlSppVnEmMDxJHE/view?usp=sharing
+DESCRIPTION:Patient Symptom Presentations I
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1781,7 +1781,7 @@ DTSTART;TZID=America/Chicago:20251027T101000
 DTEND;TZID=America/Chicago:20251027T110000
 SUMMARY:ANATD 1554 – Medical Anatomy I
 LOCATION:CARD B
-DESCRIPTION:Medical Anatomy I. Syllabus: https://drive.google.com/file/d/1nVmVEbRNSHa66NstkQDgo7LRyGYW4JlB/view?usp=share_link
+DESCRIPTION:Medical Anatomy I
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1836,7 +1836,7 @@ DTSTART;TZID=America/Chicago:20251028T131000
 DTEND;TZID=America/Chicago:20251028T140000
 SUMMARY:ANATD 1554 – Medical Anatomy I
 LOCATION:CARD B
-DESCRIPTION:Medical Anatomy I. Syllabus: https://drive.google.com/file/d/1nVmVEbRNSHa66NstkQDgo7LRyGYW4JlB/view?usp=share_link
+DESCRIPTION:Medical Anatomy I
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1844,7 +1844,7 @@ DTSTART;TZID=America/Chicago:20251028T141000
 DTEND;TZID=America/Chicago:20251028T150000
 SUMMARY:ANATD 1554 – Medical Anatomy I
 LOCATION:CARD B
-DESCRIPTION:Medical Anatomy I. Syllabus: https://drive.google.com/file/d/1nVmVEbRNSHa66NstkQDgo7LRyGYW4JlB/view?usp=share_link
+DESCRIPTION:Medical Anatomy I
 END:VEVENT
 
 
@@ -1876,7 +1876,7 @@ DTSTART;TZID=America/Chicago:20251030T091000
 DTEND;TZID=America/Chicago:20251030T100000
 SUMMARY:CLIND 1552 – Patient Symptom Presentations I
 LOCATION:CARD B
-DESCRIPTION:Patient Symptom Presentations I. Syllabus: https://drive.google.com/file/d/11rJc7IXw3FmF0U_wijBXsXFawud__c1s/view?usp=sharing     Fall Schedule: https://drive.google.com/file/d/16UVrUO9OGa2Z8S1frmlSppVnEmMDxJHE/view?usp=sharing
+DESCRIPTION:Patient Symptom Presentations I
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1920,7 +1920,7 @@ DTSTART;TZID=America/Chicago:20251103T091000
 DTEND;TZID=America/Chicago:20251103T100000
 SUMMARY:CLIND 1552 – Patient Symptom Presentations I
 LOCATION:CARD B
-DESCRIPTION:Patient Symptom Presentations I. Syllabus: https://drive.google.com/file/d/11rJc7IXw3FmF0U_wijBXsXFawud__c1s/view?usp=sharing     Fall Schedule: https://drive.google.com/file/d/16UVrUO9OGa2Z8S1frmlSppVnEmMDxJHE/view?usp=sharing
+DESCRIPTION:Patient Symptom Presentations I
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1928,7 +1928,7 @@ DTSTART;TZID=America/Chicago:20251103T101000
 DTEND;TZID=America/Chicago:20251103T110000
 SUMMARY:ANATD 1554 – Medical Anatomy I
 LOCATION:CARD B
-DESCRIPTION:Medical Anatomy I. Syllabus: https://drive.google.com/file/d/1nVmVEbRNSHa66NstkQDgo7LRyGYW4JlB/view?usp=share_link
+DESCRIPTION:Medical Anatomy I
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1968,7 +1968,7 @@ DTSTART;TZID=America/Chicago:20251104T131000
 DTEND;TZID=America/Chicago:20251104T140000
 SUMMARY:ANATD 1554 – Medical Anatomy I
 LOCATION:CARD B
-DESCRIPTION:Medical Anatomy I. Syllabus: https://drive.google.com/file/d/1nVmVEbRNSHa66NstkQDgo7LRyGYW4JlB/view?usp=share_link
+DESCRIPTION:Medical Anatomy I
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1976,7 +1976,7 @@ DTSTART;TZID=America/Chicago:20251104T141000
 DTEND;TZID=America/Chicago:20251104T150000
 SUMMARY:ANATD 1554 – Medical Anatomy I
 LOCATION:CARD B
-DESCRIPTION:Medical Anatomy I. Syllabus: https://drive.google.com/file/d/1nVmVEbRNSHa66NstkQDgo7LRyGYW4JlB/view?usp=share_link
+DESCRIPTION:Medical Anatomy I
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2007,7 +2007,7 @@ DTSTART;TZID=America/Chicago:20251106T091000
 DTEND;TZID=America/Chicago:20251106T100000
 SUMMARY:CLIND 1552 – Patient Symptom Presentations I
 LOCATION:CARD B
-DESCRIPTION:Patient Symptom Presentations I. Syllabus: https://drive.google.com/file/d/11rJc7IXw3FmF0U_wijBXsXFawud__c1s/view?usp=sharing     Fall Schedule: https://drive.google.com/file/d/16UVrUO9OGa2Z8S1frmlSppVnEmMDxJHE/view?usp=sharing
+DESCRIPTION:Patient Symptom Presentations I
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2137,7 +2137,7 @@ BEGIN:VEVENT
 DTSTART;TZID=America/Chicago:20251114T090000
 DTEND;TZID=America/Chicago:20251114T113000
 SUMMARY:ANATD 1554 – Medical Anatomy I Open Lab
-DESCRIPTION:Medical Anatomy I. Syllabus: https://drive.google.com/file/d/1nVmVEbRNSHa66NstkQDgo7LRyGYW4JlB/view?usp=share_link Open Lab
+DESCRIPTION:Medical Anatomy I Open Lab
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2156,7 +2156,7 @@ DTSTART;TZID=America/Chicago:20251117T090000
 DTEND;TZID=America/Chicago:20251117T100000
 SUMMARY:ANATD 1554 – Medical Anatomy I Exam 4
 LOCATION:Testing Center
-DESCRIPTION:Medical Anatomy I. Syllabus: https://drive.google.com/file/d/1nVmVEbRNSHa66NstkQDgo7LRyGYW4JlB/view?usp=share_link Exam 4
+DESCRIPTION:Medical Anatomy I Exam 4
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2164,7 +2164,7 @@ DTSTART;TZID=America/Chicago:20251117T120000
 DTEND;TZID=America/Chicago:20251117T160000
 SUMMARY:ANATD 1554 – Medical Anatomy I Practical Exam 2
 LOCATION:Gross Lab
-DESCRIPTION:Medical Anatomy I. Syllabus: https://drive.google.com/file/d/1nVmVEbRNSHa66NstkQDgo7LRyGYW4JlB/view?usp=share_link Practical Exam 2
+DESCRIPTION:Medical Anatomy I Practical Exam 2
 END:VEVENT
 
 
@@ -2182,7 +2182,7 @@ DTSTART;TZID=America/Chicago:20251119T123000
 DTEND;TZID=America/Chicago:20251119T134500
 SUMMARY:CLIND 1552 – Patient Symptom Presentations I Exam 3
 LOCATION:Testing Center
-DESCRIPTION:Patient Symptom Presentations I. Syllabus: https://drive.google.com/file/d/11rJc7IXw3FmF0U_wijBXsXFawud__c1s/view?usp=sharing     Fall Schedule: https://drive.google.com/file/d/16UVrUO9OGa2Z8S1frmlSppVnEmMDxJHE/view?usp=sharing Exam 3
+DESCRIPTION:Patient Symptom Presentations I Exam 3
 END:VEVENT
 
 

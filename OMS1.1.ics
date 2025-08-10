@@ -29,7 +29,7 @@ DTSTART;TZID=America/Chicago:20250811T091000
 DTEND;TZID=America/Chicago:20250811T100000
 SUMMARY:CLIND 1552 – Patient Symptom Presentations I
 LOCATION:CARD B
-DESCRIPTION:Patient Symptom Presentations I
+DESCRIPTION:Patient Symptom Presentations I. Syllabus: https://drive.google.com/file/d/11rJc7IXw3FmF0U_wijBXsXFawud__c1s/view?usp=sharing     Fall Schedule: https://drive.google.com/file/d/16UVrUO9OGa2Z8S1frmlSppVnEmMDxJHE/view?usp=sharing
 END:VEVENT
 BEGIN:VEVENT
 UID:20250811T101000-CLIND1502@midwestern.edu
@@ -131,7 +131,7 @@ DTSTART;TZID=America/Chicago:20250814T091000
 DTEND;TZID=America/Chicago:20250814T100000
 SUMMARY:CLIND 1552 – Patient Symptom Presentations I
 LOCATION:CARD B
-DESCRIPTION:Patient Symptom Presentations I
+DESCRIPTION:Patient Symptom Presentations I. Syllabus: https://drive.google.com/file/d/11rJc7IXw3FmF0U_wijBXsXFawud__c1s/view?usp=sharing     Fall Schedule: https://drive.google.com/file/d/16UVrUO9OGa2Z8S1frmlSppVnEmMDxJHE/view?usp=sharing
 END:VEVENT
 BEGIN:VEVENT
 UID:20250814T101000-CLIND1562@midwestern.edu
@@ -173,7 +173,7 @@ DTSTART;TZID=America/Chicago:20250818T091000
 DTEND;TZID=America/Chicago:20250818T100000
 SUMMARY:CLIND 1552 – Patient Symptom Presentations I
 LOCATION:CARD B
-DESCRIPTION:Patient Symptom Presentations I
+DESCRIPTION:Patient Symptom Presentations I. Syllabus: https://drive.google.com/file/d/11rJc7IXw3FmF0U_wijBXsXFawud__c1s/view?usp=sharing     Fall Schedule: https://drive.google.com/file/d/16UVrUO9OGa2Z8S1frmlSppVnEmMDxJHE/view?usp=sharing
 END:VEVENT
 BEGIN:VEVENT
 UID:20250818T101000-CLIND1502@midwestern.edu
@@ -228,7 +228,7 @@ DTSTART;TZID=America/Chicago:20250819T091000
 DTEND;TZID=America/Chicago:20250819T103000
 SUMMARY:CLIND 1552 – Patient Symptom Presentations I
 LOCATION:CARD B
-DESCRIPTION:Patient Symptom Presentations I
+DESCRIPTION:Patient Symptom Presentations I. Syllabus: https://drive.google.com/file/d/11rJc7IXw3FmF0U_wijBXsXFawud__c1s/view?usp=sharing     Fall Schedule: https://drive.google.com/file/d/16UVrUO9OGa2Z8S1frmlSppVnEmMDxJHE/view?usp=sharing
 END:VEVENT
 BEGIN:VEVENT
 UID:20250819T104000-CLIND1552@midwestern.edu
@@ -237,7 +237,7 @@ DTSTART;TZID=America/Chicago:20250819T104000
 DTEND;TZID=America/Chicago:20250819T120000
 SUMMARY:CLIND 1552 – Patient Symptom Presentations I
 LOCATION:CARD B
-DESCRIPTION:Patient Symptom Presentations I
+DESCRIPTION:Patient Symptom Presentations I. Syllabus: https://drive.google.com/file/d/11rJc7IXw3FmF0U_wijBXsXFawud__c1s/view?usp=sharing     Fall Schedule: https://drive.google.com/file/d/16UVrUO9OGa2Z8S1frmlSppVnEmMDxJHE/view?usp=sharing
 END:VEVENT
 BEGIN:VEVENT
 UID:20250819T131000-CLIND1502@midwestern.edu
@@ -302,7 +302,7 @@ DTSTART;TZID=America/Chicago:20250821T091000
 DTEND;TZID=America/Chicago:20250821T100000
 SUMMARY:CLIND 1552 – Patient Symptom Presentations I
 LOCATION:CARD B
-DESCRIPTION:Patient Symptom Presentations I
+DESCRIPTION:Patient Symptom Presentations I. Syllabus: https://drive.google.com/file/d/11rJc7IXw3FmF0U_wijBXsXFawud__c1s/view?usp=sharing     Fall Schedule: https://drive.google.com/file/d/16UVrUO9OGa2Z8S1frmlSppVnEmMDxJHE/view?usp=sharing
 END:VEVENT
 BEGIN:VEVENT
 UID:20250821T101000-CLIND1562@midwestern.edu
@@ -353,7 +353,7 @@ DTSTART;TZID=America/Chicago:20250825T091000
 DTEND;TZID=America/Chicago:20250825T100000
 SUMMARY:CLIND 1552 – Patient Symptom Presentations I
 LOCATION:CARD B
-DESCRIPTION:Patient Symptom Presentations I
+DESCRIPTION:Patient Symptom Presentations I. Syllabus: https://drive.google.com/file/d/11rJc7IXw3FmF0U_wijBXsXFawud__c1s/view?usp=sharing     Fall Schedule: https://drive.google.com/file/d/16UVrUO9OGa2Z8S1frmlSppVnEmMDxJHE/view?usp=sharing
 END:VEVENT
 BEGIN:VEVENT
 UID:20250825T101000-ANATD1554@midwestern.edu
@@ -408,7 +408,7 @@ DTSTART;TZID=America/Chicago:20250826T080000
 DTEND;TZID=America/Chicago:20250826T081500
 SUMMARY:CLIND 1552 Quiz
 LOCATION:Testing Center
-DESCRIPTION:Patient Symptom Presentations I Quiz
+DESCRIPTION:Patient Symptom Presentations I. Syllabus: https://drive.google.com/file/d/11rJc7IXw3FmF0U_wijBXsXFawud__c1s/view?usp=sharing     Fall Schedule: https://drive.google.com/file/d/16UVrUO9OGa2Z8S1frmlSppVnEmMDxJHE/view?usp=sharing Quiz
 END:VEVENT
 BEGIN:VEVENT
 UID:20250826T081500-OMEDD1570QUIZ@midwestern.edu
@@ -500,7 +500,7 @@ DTSTART;TZID=America/Chicago:20250828T091000
 DTEND;TZID=America/Chicago:20250828T100000
 SUMMARY:CLIND 1552 – Patient Symptom Presentations I
 LOCATION:CH-E
-DESCRIPTION:Patient Symptom Presentations I
+DESCRIPTION:Patient Symptom Presentations I. Syllabus: https://drive.google.com/file/d/11rJc7IXw3FmF0U_wijBXsXFawud__c1s/view?usp=sharing     Fall Schedule: https://drive.google.com/file/d/16UVrUO9OGa2Z8S1frmlSppVnEmMDxJHE/view?usp=sharing
 END:VEVENT
 BEGIN:VEVENT
 UID:20250828T101000-CLIND1562@midwestern.edu
@@ -607,7 +607,7 @@ DTSTART;TZID=America/Chicago:20250904T091000
 DTEND;TZID=America/Chicago:20250904T100000
 SUMMARY:CLIND 1552 – Patient Symptom Presentations I
 LOCATION:CARD B
-DESCRIPTION:Patient Symptom Presentations I
+DESCRIPTION:Patient Symptom Presentations I. Syllabus: https://drive.google.com/file/d/11rJc7IXw3FmF0U_wijBXsXFawud__c1s/view?usp=sharing     Fall Schedule: https://drive.google.com/file/d/16UVrUO9OGa2Z8S1frmlSppVnEmMDxJHE/view?usp=sharing
 END:VEVENT
 BEGIN:VEVENT
 UID:20250904T101000-CLIND1562@midwestern.edu
@@ -667,7 +667,7 @@ DTSTART;TZID=America/Chicago:20250908T091000
 DTEND;TZID=America/Chicago:20250908T100000
 SUMMARY:CLIND 1552 – Patient Symptom Presentations I
 LOCATION:CARD B
-DESCRIPTION:Patient Symptom Presentations I
+DESCRIPTION:Patient Symptom Presentations I. Syllabus: https://drive.google.com/file/d/11rJc7IXw3FmF0U_wijBXsXFawud__c1s/view?usp=sharing     Fall Schedule: https://drive.google.com/file/d/16UVrUO9OGa2Z8S1frmlSppVnEmMDxJHE/view?usp=sharing
 END:VEVENT
 
 BEGIN:VEVENT
@@ -807,7 +807,7 @@ DTSTART;TZID=America/Chicago:20250911T091000
 DTEND;TZID=America/Chicago:20250911T100000
 SUMMARY:CLIND 1552 – Patient Symptom Presentations I
 LOCATION:CARD B
-DESCRIPTION:Patient Symptom Presentations I
+DESCRIPTION:Patient Symptom Presentations I. Syllabus: https://drive.google.com/file/d/11rJc7IXw3FmF0U_wijBXsXFawud__c1s/view?usp=sharing     Fall Schedule: https://drive.google.com/file/d/16UVrUO9OGa2Z8S1frmlSppVnEmMDxJHE/view?usp=sharing
 END:VEVENT
 
 BEGIN:VEVENT
@@ -837,7 +837,7 @@ DTSTART;TZID=America/Chicago:20250911T151500
 DTEND;TZID=America/Chicago:20250911T163000
 SUMMARY:CLIND 1552 – Patient Symptom Presentations I Exam 1
 LOCATION:Testing Center
-DESCRIPTION:Patient Symptom Presentations I Exam 1
+DESCRIPTION:Patient Symptom Presentations I. Syllabus: https://drive.google.com/file/d/11rJc7IXw3FmF0U_wijBXsXFawud__c1s/view?usp=sharing     Fall Schedule: https://drive.google.com/file/d/16UVrUO9OGa2Z8S1frmlSppVnEmMDxJHE/view?usp=sharing Exam 1
 END:VEVENT
 
 BEGIN:VEVENT
@@ -862,7 +862,7 @@ DTSTART;TZID=America/Chicago:20250915T091000
 DTEND;TZID=America/Chicago:20250915T100000
 SUMMARY:CLIND 1552 – Patient Symptom Presentations I
 LOCATION:CARD B
-DESCRIPTION:Patient Symptom Presentations I
+DESCRIPTION:Patient Symptom Presentations I. Syllabus: https://drive.google.com/file/d/11rJc7IXw3FmF0U_wijBXsXFawud__c1s/view?usp=sharing     Fall Schedule: https://drive.google.com/file/d/16UVrUO9OGa2Z8S1frmlSppVnEmMDxJHE/view?usp=sharing
 END:VEVENT
 
 BEGIN:VEVENT
@@ -992,7 +992,7 @@ DTSTART;TZID=America/Chicago:20250918T091000
 DTEND;TZID=America/Chicago:20250918T100000
 SUMMARY:CLIND 1552 – Patient Symptom Presentations I
 LOCATION:CARD B
-DESCRIPTION:Patient Symptom Presentations I
+DESCRIPTION:Patient Symptom Presentations I. Syllabus: https://drive.google.com/file/d/11rJc7IXw3FmF0U_wijBXsXFawud__c1s/view?usp=sharing     Fall Schedule: https://drive.google.com/file/d/16UVrUO9OGa2Z8S1frmlSppVnEmMDxJHE/view?usp=sharing
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1043,7 +1043,7 @@ DTSTART;TZID=America/Chicago:20250922T091000
 DTEND;TZID=America/Chicago:20250922T100000
 SUMMARY:CLIND 1552 – Patient Symptom Presentations I
 LOCATION:CARD B
-DESCRIPTION:Patient Symptom Presentations I
+DESCRIPTION:Patient Symptom Presentations I. Syllabus: https://drive.google.com/file/d/11rJc7IXw3FmF0U_wijBXsXFawud__c1s/view?usp=sharing     Fall Schedule: https://drive.google.com/file/d/16UVrUO9OGa2Z8S1frmlSppVnEmMDxJHE/view?usp=sharing
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Chicago:20250922T101000
@@ -1122,7 +1122,7 @@ DTSTART;TZID=America/Chicago:20250925T091000
 DTEND;TZID=America/Chicago:20250925T100000
 SUMMARY:CLIND 1552 – Patient Symptom Presentations I
 LOCATION:CARD B
-DESCRIPTION:Patient Symptom Presentations I
+DESCRIPTION:Patient Symptom Presentations I. Syllabus: https://drive.google.com/file/d/11rJc7IXw3FmF0U_wijBXsXFawud__c1s/view?usp=sharing     Fall Schedule: https://drive.google.com/file/d/16UVrUO9OGa2Z8S1frmlSppVnEmMDxJHE/view?usp=sharing
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Chicago:20250925T101000
@@ -1174,7 +1174,7 @@ DTSTART;TZID=America/Chicago:20250929T091000
 DTEND;TZID=America/Chicago:20250929T100000
 SUMMARY:CLIND 1552 – Patient Symptom Presentations I
 LOCATION:CARD B
-DESCRIPTION:Patient Symptom Presentations I
+DESCRIPTION:Patient Symptom Presentations I. Syllabus: https://drive.google.com/file/d/11rJc7IXw3FmF0U_wijBXsXFawud__c1s/view?usp=sharing     Fall Schedule: https://drive.google.com/file/d/16UVrUO9OGa2Z8S1frmlSppVnEmMDxJHE/view?usp=sharing
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1198,7 +1198,7 @@ DTSTART;TZID=America/Chicago:20250930T080000
 DTEND;TZID=America/Chicago:20250930T081500
 SUMMARY:CLIND 1552 – Patient Symptom Presentations I Quiz
 LOCATION:Testing Center
-DESCRIPTION:Patient Symptom Presentations I Quiz
+DESCRIPTION:Patient Symptom Presentations I. Syllabus: https://drive.google.com/file/d/11rJc7IXw3FmF0U_wijBXsXFawud__c1s/view?usp=sharing     Fall Schedule: https://drive.google.com/file/d/16UVrUO9OGa2Z8S1frmlSppVnEmMDxJHE/view?usp=sharing Quiz
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1269,7 +1269,7 @@ DTSTART;TZID=America/Chicago:20251002T091000
 DTEND;TZID=America/Chicago:20251002T100000
 SUMMARY:CLIND 1552 – Patient Symptom Presentations I
 LOCATION:CH-E
-DESCRIPTION:Patient Symptom Presentations I
+DESCRIPTION:Patient Symptom Presentations I. Syllabus: https://drive.google.com/file/d/11rJc7IXw3FmF0U_wijBXsXFawud__c1s/view?usp=sharing     Fall Schedule: https://drive.google.com/file/d/16UVrUO9OGa2Z8S1frmlSppVnEmMDxJHE/view?usp=sharing
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1320,7 +1320,7 @@ DTSTART;TZID=America/Chicago:20251006T091000
 DTEND;TZID=America/Chicago:20251006T100000
 SUMMARY:CLIND 1552 – Patient Symptom Presentations I
 LOCATION:CARD B
-DESCRIPTION:Patient Symptom Presentations I\nInstructor: TBA\nCredit Hours: 1.0
+DESCRIPTION:Patient Symptom Presentations I. Syllabus: https://drive.google.com/file/d/11rJc7IXw3FmF0U_wijBXsXFawud__c1s/view?usp=sharing     Fall Schedule: https://drive.google.com/file/d/16UVrUO9OGa2Z8S1frmlSppVnEmMDxJHE/view?usp=sharing\nInstructor: TBA\nCredit Hours: 1.0
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1411,7 +1411,7 @@ DTSTART;TZID=America/Chicago:20251009T091000
 DTEND;TZID=America/Chicago:20251009T100000
 SUMMARY:CLIND 1552 – Patient Symptom Presentations I
 LOCATION:CARD B
-DESCRIPTION:Patient Symptom Presentations I\nInstructor: TBA\nCredit Hours: 1.0
+DESCRIPTION:Patient Symptom Presentations I. Syllabus: https://drive.google.com/file/d/11rJc7IXw3FmF0U_wijBXsXFawud__c1s/view?usp=sharing     Fall Schedule: https://drive.google.com/file/d/16UVrUO9OGa2Z8S1frmlSppVnEmMDxJHE/view?usp=sharing\nInstructor: TBA\nCredit Hours: 1.0
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1435,7 +1435,7 @@ DTSTART;TZID=America/Chicago:20251009T151500
 DTEND;TZID=America/Chicago:20251009T163000
 SUMMARY:CLIND 1552 – Patient Symptom Presentations I Exam 2
 LOCATION:Testing Center
-DESCRIPTION:Patient Symptom Presentations I Exam 2\nInstructor: TBA\nCredit Hours: 1.0
+DESCRIPTION:Patient Symptom Presentations I. Syllabus: https://drive.google.com/file/d/11rJc7IXw3FmF0U_wijBXsXFawud__c1s/view?usp=sharing     Fall Schedule: https://drive.google.com/file/d/16UVrUO9OGa2Z8S1frmlSppVnEmMDxJHE/view?usp=sharing Exam 2\nInstructor: TBA\nCredit Hours: 1.0
 END:VEVENT
 
 
@@ -1455,7 +1455,7 @@ DTSTART;TZID=America/Chicago:20251013T091000
 DTEND;TZID=America/Chicago:20251013T100000
 SUMMARY:CLIND 1552 – Patient Symptom Presentations I
 LOCATION:CARD B
-DESCRIPTION:Patient Symptom Presentations I
+DESCRIPTION:Patient Symptom Presentations I. Syllabus: https://drive.google.com/file/d/11rJc7IXw3FmF0U_wijBXsXFawud__c1s/view?usp=sharing     Fall Schedule: https://drive.google.com/file/d/16UVrUO9OGa2Z8S1frmlSppVnEmMDxJHE/view?usp=sharing
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1558,7 +1558,7 @@ DTSTART;TZID=America/Chicago:20251016T091000
 DTEND;TZID=America/Chicago:20251016T100000
 SUMMARY:CLIND 1552 – Patient Symptom Presentations I
 LOCATION:CARD B
-DESCRIPTION:Patient Symptom Presentations I
+DESCRIPTION:Patient Symptom Presentations I. Syllabus: https://drive.google.com/file/d/11rJc7IXw3FmF0U_wijBXsXFawud__c1s/view?usp=sharing     Fall Schedule: https://drive.google.com/file/d/16UVrUO9OGa2Z8S1frmlSppVnEmMDxJHE/view?usp=sharing
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1625,7 +1625,7 @@ DTSTART;TZID=America/Chicago:20251020T091000
 DTEND;TZID=America/Chicago:20251020T100000
 SUMMARY:CLIND 1552 – Patient Symptom Presentations I
 LOCATION:CARD B
-DESCRIPTION:Patient Symptom Presentations I
+DESCRIPTION:Patient Symptom Presentations I. Syllabus: https://drive.google.com/file/d/11rJc7IXw3FmF0U_wijBXsXFawud__c1s/view?usp=sharing     Fall Schedule: https://drive.google.com/file/d/16UVrUO9OGa2Z8S1frmlSppVnEmMDxJHE/view?usp=sharing
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1690,7 +1690,7 @@ DTSTART;TZID=America/Chicago:20251022T073000
 DTEND;TZID=America/Chicago:20251022T074500
 SUMMARY:CLIND 1552 – Patient Symptom Presentations I Quiz
 LOCATION:Testing Center
-DESCRIPTION:Patient Symptom Presentations I Quiz
+DESCRIPTION:Patient Symptom Presentations I. Syllabus: https://drive.google.com/file/d/11rJc7IXw3FmF0U_wijBXsXFawud__c1s/view?usp=sharing     Fall Schedule: https://drive.google.com/file/d/16UVrUO9OGa2Z8S1frmlSppVnEmMDxJHE/view?usp=sharing Quiz
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1730,7 +1730,7 @@ DTSTART;TZID=America/Chicago:20251023T091000
 DTEND;TZID=America/Chicago:20251023T100000
 SUMMARY:CLIND 1552 – Patient Symptom Presentations I
 LOCATION:CARD B
-DESCRIPTION:Patient Symptom Presentations I
+DESCRIPTION:Patient Symptom Presentations I. Syllabus: https://drive.google.com/file/d/11rJc7IXw3FmF0U_wijBXsXFawud__c1s/view?usp=sharing     Fall Schedule: https://drive.google.com/file/d/16UVrUO9OGa2Z8S1frmlSppVnEmMDxJHE/view?usp=sharing
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1773,7 +1773,7 @@ DTSTART;TZID=America/Chicago:20251027T091000
 DTEND;TZID=America/Chicago:20251027T100000
 SUMMARY:CLIND 1552 – Patient Symptom Presentations I
 LOCATION:CARD B
-DESCRIPTION:Patient Symptom Presentations I
+DESCRIPTION:Patient Symptom Presentations I. Syllabus: https://drive.google.com/file/d/11rJc7IXw3FmF0U_wijBXsXFawud__c1s/view?usp=sharing     Fall Schedule: https://drive.google.com/file/d/16UVrUO9OGa2Z8S1frmlSppVnEmMDxJHE/view?usp=sharing
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1876,7 +1876,7 @@ DTSTART;TZID=America/Chicago:20251030T091000
 DTEND;TZID=America/Chicago:20251030T100000
 SUMMARY:CLIND 1552 – Patient Symptom Presentations I
 LOCATION:CARD B
-DESCRIPTION:Patient Symptom Presentations I
+DESCRIPTION:Patient Symptom Presentations I. Syllabus: https://drive.google.com/file/d/11rJc7IXw3FmF0U_wijBXsXFawud__c1s/view?usp=sharing     Fall Schedule: https://drive.google.com/file/d/16UVrUO9OGa2Z8S1frmlSppVnEmMDxJHE/view?usp=sharing
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1920,7 +1920,7 @@ DTSTART;TZID=America/Chicago:20251103T091000
 DTEND;TZID=America/Chicago:20251103T100000
 SUMMARY:CLIND 1552 – Patient Symptom Presentations I
 LOCATION:CARD B
-DESCRIPTION:Patient Symptom Presentations I
+DESCRIPTION:Patient Symptom Presentations I. Syllabus: https://drive.google.com/file/d/11rJc7IXw3FmF0U_wijBXsXFawud__c1s/view?usp=sharing     Fall Schedule: https://drive.google.com/file/d/16UVrUO9OGa2Z8S1frmlSppVnEmMDxJHE/view?usp=sharing
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2007,7 +2007,7 @@ DTSTART;TZID=America/Chicago:20251106T091000
 DTEND;TZID=America/Chicago:20251106T100000
 SUMMARY:CLIND 1552 – Patient Symptom Presentations I
 LOCATION:CARD B
-DESCRIPTION:Patient Symptom Presentations I
+DESCRIPTION:Patient Symptom Presentations I. Syllabus: https://drive.google.com/file/d/11rJc7IXw3FmF0U_wijBXsXFawud__c1s/view?usp=sharing     Fall Schedule: https://drive.google.com/file/d/16UVrUO9OGa2Z8S1frmlSppVnEmMDxJHE/view?usp=sharing
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2182,7 +2182,7 @@ DTSTART;TZID=America/Chicago:20251119T123000
 DTEND;TZID=America/Chicago:20251119T134500
 SUMMARY:CLIND 1552 – Patient Symptom Presentations I Exam 3
 LOCATION:Testing Center
-DESCRIPTION:Patient Symptom Presentations I Exam 3
+DESCRIPTION:Patient Symptom Presentations I. Syllabus: https://drive.google.com/file/d/11rJc7IXw3FmF0U_wijBXsXFawud__c1s/view?usp=sharing     Fall Schedule: https://drive.google.com/file/d/16UVrUO9OGa2Z8S1frmlSppVnEmMDxJHE/view?usp=sharing Exam 3
 END:VEVENT
 
 
